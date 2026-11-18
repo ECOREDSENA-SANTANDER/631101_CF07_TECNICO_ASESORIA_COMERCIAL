@@ -17,7 +17,26 @@
 
 
 
+    .tit-doble.mb-5(data-aos="fade-right")
+      img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
+      h3 
 
+
+    .tit-doble.mb-5(data-aos="fade-right")
+      img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
+      h3 
+
+
+
+    .tit-doble.mb-5(data-aos="fade-right")
+      img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
+      h3 
+
+
+
+    .tit-doble.mb-5(data-aos="fade-right")
+      img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
+      h3 
 
 </template>
 
