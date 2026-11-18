@@ -5,7 +5,19 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Buenas prácticas para la atención al cliente en el servicio postventa
+
+
+
+
+    separador
+    #t_3_1.titulo-segundo.mb-5
+      h2 3.1 Seguimiento al cliente después de la compra
+
+
+
+
+
 
 </template>
 

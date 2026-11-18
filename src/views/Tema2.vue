@@ -5,7 +5,24 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Herramientas postventa
+
+
+
+    separador
+    #t_2_1.titulo-segundo.mb-5
+      h2 2.1 Importancia del servicio postventa
+
+
+    separador
+    #t_2_2.titulo-segundo.mb-5
+      h2 2.2 Tipos de servicios postventa
+
+
+
+
+
+
 
 </template>
 
