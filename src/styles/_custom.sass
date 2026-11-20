@@ -105,12 +105,15 @@ figcaption
   border-radius: 20px
 
 .bg3,
-.bg33
+.bg33,
+.bg333
   background: url('../assets/curso/tema1/fd1.png') center / cover no-repeat
   @media (min-width: 992px)
     min-height: var(--alto, 409.39px)
 .bg33
   --alto: 468.76px
+.bg333
+  --alto: 372.17px
 
 .bg4
   background-color: #B5F0FF !important
@@ -147,10 +150,10 @@ figcaption
   background-color: #1C5666
   width: 100% !important
   
-
-
-
-
+.bg9
+  background-color: #ECFBFF
+  @media (min-width: 992px)
+    min-height: 280.72px
 
 
 
@@ -324,33 +327,81 @@ figcaption
     background-color: #46D9FF
 
 .acordion__accion__btn--a
-  background-color: #F1B616
+  background-color: #FFD633
   box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
 .acordion .tarjeta--azull
-  background-color: #33281D
-  h3
+  background-color: #AEA3BE
+  //h3
     color: white
 .acordion__accion__btn--a i, .acordion__accion__btn--b i .activ
   color: black
 .acordion.activ .acordion__activo .acordion__accion__btn--a
-  background-color: #F1B616
+  background-color: #FFD633
   i
     color: black !important
 .activ
   .acordion__activo 
-    background-color: #BBFFEF !important
+    background-color: #ECFBFF !important
     transition: all 0.3s ease-out
-    h3
+    //h3
       color: black 
 
+.tarjetaf
+  background: url('../assets/curso/tema2/fd4.png') center / cover no-repeat
+  border-radius: 20px
+  overflow: hidden
+  transition: transform 0.3s ease
+  // h4, p
+    color: white
+.slyder-a
+  &__bullets__item
+    background-color: #36195E
+    border-color: #36195E
+    &--active
+      background-color: #FFD633 !important
+      border-color: #FFD633 !important
+  &__btn--sigt,
+  &__btn--atrs
+    background-color: #FFD633
+  @media (max-width: 768px)
+    &__bullets__item
+      width: 12px
+      height: 12px
+      margin: 0 1px
+    &__btn--sigt,
+    &__btn--atrs
+      width: 45px
+      height: 45px
+
+.tarjeta-audio 
+  border: 3px solid
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto 
+  color: black
+.fst-italic 
+  font-style: normal !important
+.tarjeta.color-secundario i
+  color: #000
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto
+  color: black
+  font-style: normal !important
+.tarjeta.color-secundario * 
+  color: #000
+
+.img-infografica.color-primario,
+.img-infografica-b.color-primario
+  .img-infografica__item__dot,
+  .img-infografica-b__item__dot
+    &:before,
+    &:after
+      background-color: #F2F1C1
+      opacity: 0.01
+.img-infografica.color-primario,
+.img-infografica-b.color-primario
+  .img-infografica__item__numero
+    color: black
 
 
-
-
-
-
-
-
+    
 //////////////////////////////////////TABLAS////////////////////////////////////
 
 .bgw
@@ -393,3 +444,10 @@ figcaption
       width: 18%
     th:nth-child(5)
       width: 18%
+  &.tab4
+    th:nth-child(1)
+      width: 35%
+    th:nth-child(2)
+      width: 30%
+    th:nth-child(3)
+      width: 35%

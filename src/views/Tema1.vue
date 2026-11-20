@@ -19,9 +19,9 @@
             br 
             p.mb-0 La postventa no se limita a solucionar problemas cuando se presentan. También incluye acciones preventivas y de seguimiento que contribuyen a mejorar la experiencia del cliente, fortalecer su confianza y generar oportunidades de fidelización. Por ejemplo, una empresa que comercializa electrodomésticos puede contactar al comprador después de la entrega para confirmar que el producto funciona correctamente, orientar sobre su uso y proporcionar información acerca de los canales de asistencia técnica.
     
-    p.mb-5 Entre las principales actividades del servicio postventa se encuentran:
+    p.mb-5(data-aos="fade-left") Entre las principales actividades del servicio postventa se encuentran:
     
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-lg-12
         ul.lista-ul.mb-0
           li.d-flex.mb-2
@@ -46,7 +46,7 @@
             i.fas.fa-user
             p.mb-0 #[b Fidelización:] desarrollar acciones de comunicación y acompañamiento que favorezcan la continuidad de la relación comercial.
 
-    p.mb-5 La implementación de estas actividades proporciona beneficios tanto para los clientes como para las empresas. Sin embargo, requiere recursos, personal capacitado y procedimientos que permitan garantizar una atención oportuna y organizada.
+    p.mb-4(data-aos="fade-right") La implementación de estas actividades proporciona beneficios tanto para los clientes como para las empresas. Sin embargo, requiere recursos, personal capacitado y procedimientos que permitan garantizar una atención oportuna y organizada.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -76,18 +76,18 @@
                 td Facilita nuevas oportunidades comerciales.
                 td Requiere coordinación entre las diferentes áreas de la organización.
 
-    p.mb-0 Una gestión adecuada de la postventa permite aprovechar sus beneficios y atender las necesidades operativas que surgen durante su implementación. Para ello, es importante establecer responsabilidades, canales de comunicación y mecanismos de evaluación que contribuyan al mejoramiento continuo del servicio.
+    p.mb-0(data-aos="fade-right") Una gestión adecuada de la postventa permite aprovechar sus beneficios y atender las necesidades operativas que surgen durante su implementación. Para ello, es importante establecer responsabilidades, canales de comunicación y mecanismos de evaluación que contribuyan al mejoramiento continuo del servicio.
 
 
     separador
     #t_1_1.titulo-segundo.mb-5
       h2 1.1 Etapas de la postventa
 
-    p.mb-4 La relación comercial con el cliente continúa después de realizar la venta. Por esta razón, las empresas deben desarrollar acciones organizadas que permitan acompañar al comprador, atender sus necesidades y fortalecer su confianza durante el uso del producto o servicio.
+    p.mb-4(data-aos="fade-left") La relación comercial con el cliente continúa después de realizar la venta. Por esta razón, las empresas deben desarrollar acciones organizadas que permitan acompañar al comprador, atender sus necesidades y fortalecer su confianza durante el uso del producto o servicio.
 
-    p.mb-5 Aunque las actividades pueden variar según el tipo de empresa, el proceso postventa puede organizarse en las siguientes etapas:
+    p.mb-5(data-aos="fade-right") Aunque las actividades pueden variar según el tipo de empresa, el proceso postventa puede organizarse en las siguientes etapas:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-10
         PasosA.color-acento-contenido.mb-0(tipo="n")
           .row.justify-content-center.align-items-center.mb-0
@@ -96,11 +96,11 @@
               p.mb-0 Consiste en verificar que el cliente haya recibido el producto o servicio de acuerdo con las condiciones pactadas. Se comprueban aspectos como la entrega oportuna, el estado del producto, la documentación correspondiente y el cumplimiento de los compromisos comerciales.
             .col-lg-2.cel
               figure
-                img.img-a.img-t(src='@/assets/curso/tema1/2.svg', alt='')
+                img.img-a.img-t(src='@/assets/curso/tema1/2.svg')
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-2.cel
               figure
-                img.img-a.img-t(src='@/assets/curso/tema1/3.svg', alt='')
+                img.img-a.img-t(src='@/assets/curso/tema1/3.svg')
             .col-lg-10.text-end
               h4 Contacto y seguimiento inicial
               p.mb-0 La empresa establece comunicación con el cliente después de la compra para conocer su experiencia, resolver inquietudes y confirmar que puede utilizar el producto o servicio adecuadamente. Este contacto puede realizarse mediante llamadas, mensajes, correos electrónicos o canales digitales autorizados.
@@ -110,11 +110,11 @@
               p.mb-0 Comprende la recepción y gestión de consultas, solicitudes de información, reclamaciones, garantías, devoluciones y requerimientos de asistencia. Es importante ofrecer respuestas claras y cumplir los procedimientos establecidos por la organización y la normativa aplicable.
             .col-lg-2.cel
               figure
-                img.img-a.img-t(src='@/assets/curso/tema1/4.svg', alt='')
+                img.img-a.img-t(src='@/assets/curso/tema1/4.svg')
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-2.cel
               figure
-                img.img-a.img-t(src='@/assets/curso/tema1/5.svg', alt='')
+                img.img-a.img-t(src='@/assets/curso/tema1/5.svg')
             .col-lg-10.text-end
               h4 Evaluación de la satisfacción
               p.mb-0 Permite conocer la percepción del cliente sobre el producto adquirido y la atención recibida. Para ello, pueden utilizarse encuestas breves, registros de satisfacción, entrevistas o mecanismos de valoración del servicio.
@@ -124,11 +124,11 @@
               p.mb-0 Consiste en mantener una comunicación pertinente con el cliente, proporcionar información útil y ofrecer servicios complementarios cuando correspondan a sus necesidades. Estas acciones buscan fortalecer la confianza y favorecer futuras relaciones comerciales.
             .col-lg-2.cel
               figure
-                img.img-a.img-t(src='@/assets/curso/tema1/2.svg', alt='')
+                img.img-a.img-t(src='@/assets/curso/tema1/2.svg')
 
-    p.mb-5 Estas etapas permiten desarrollar un seguimiento organizado y adaptar las acciones postventa a las características de cada cliente. En las micro, pequeñas y medianas empresas (MiPymes), algunas funciones pueden integrarse con el área de servicio al cliente, siempre que existan responsabilidades y procedimientos definidos.
+    p.mb-5(data-aos="fade-right") Estas etapas permiten desarrollar un seguimiento organizado y adaptar las acciones postventa a las características de cada cliente. En las micro, pequeñas y medianas empresas (MiPymes), algunas funciones pueden integrarse con el área de servicio al cliente, siempre que existan responsabilidades y procedimientos definidos.
 
-    .bg2.p-lg-5.p-4.mb-0(data-aos="fade-right")
+    .bg2.p-lg-5.p-4.mb-0(data-aos="fade-left")
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-5.mb-lg-0.mb-4
           img.img-t.img-a(src='@/assets/curso/tema1/7.svg')
@@ -146,9 +146,9 @@
     #t_1_2.titulo-segundo.mb-5
       h2 1.2 Elementos de la postventa
 
-    p.mb-4 Para desarrollar un servicio postventa efectivo, la empresa debe considerar elementos que faciliten la atención de las necesidades del cliente y el cumplimiento de los compromisos adquiridos durante la venta.
+    p.mb-4(data-aos="fade-right") Para desarrollar un servicio postventa efectivo, la empresa debe considerar elementos que faciliten la atención de las necesidades del cliente y el cumplimiento de los compromisos adquiridos durante la venta.
 
-    p.mb-5 Los elementos fundamentales son los siguientes:
+    p.mb-5(data-aos="fade-left") Los elementos fundamentales son los siguientes:
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-6.mb-lg-0.mb-4
@@ -170,7 +170,7 @@
           h4.mb-4 3. Seguimiento y evaluación de la satisfacción
           p.mb-0 Permite verificar que las solicitudes hayan sido atendidas y conocer el nivel de satisfacción del cliente con las soluciones proporcionadas. La información recopilada contribuye a identificar fallas, prevenir situaciones recurrentes y mejorar los procedimientos de atención.
 
-    p.mb-0 Estos elementos deben aplicarse de manera articulada. Por ejemplo, cuando un cliente solicita la reparación de un producto, la empresa debe comunicar el procedimiento, gestionar la asistencia correspondiente y realizar seguimiento hasta verificar el resultado de la atención.
+    p.mb-0(data-aos="fade-left") Estos elementos deben aplicarse de manera articulada. Por ejemplo, cuando un cliente solicita la reparación de un producto, la empresa debe comunicar el procedimiento, gestionar la asistencia correspondiente y realizar seguimiento hasta verificar el resultado de la atención.
 
 
     separador
@@ -186,7 +186,7 @@
           p.mb-4.mx-lg-2 La calidad del servicio postventa se relaciona con la capacidad de la empresa para atender los requerimientos del cliente de manera oportuna, confiable y coherente con los compromisos comerciales y las políticas organizacionales.
           p.mb-0.mx-lg-2 Una atención de calidad requiere procedimientos definidos, personal capacitado, recursos disponibles y mecanismos de seguimiento que permitan evaluar los resultados. También implica cumplir las obligaciones legales relacionadas con las garantías, la protección del consumidor y el tratamiento de la información personal.
 
-    p.mb-5 Para gestionar la calidad del servicio postventa, la empresa puede desarrollar un proceso de cuatro etapas:
+    p.mb-5(data-aos="fade-right") Para gestionar la calidad del servicio postventa, la empresa puede desarrollar un proceso de cuatro etapas:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-3.d-none.d-lg-block
@@ -210,17 +210,17 @@
               .col-lg-12 
                 p.mb-0 Identificar oportunidades de ajuste y aplicar acciones que permitan fortalecer la calidad del servicio.
 
-    p.mb-5 Estas etapas conforman un proceso continuo. Los resultados obtenidos durante el control y la mejora proporcionan información para ajustar la planificación y fortalecer las actividades posteriores.
+    p.mb-5(data-aos="fade-right") Estas etapas conforman un proceso continuo. Los resultados obtenidos durante el control y la mejora proporcionan información para ajustar la planificación y fortalecer las actividades posteriores.
 
-    .tit-doble.mb-5(data-aos="fade-right")
+    .tit-doble.mb-5(data-aos="fade-left")
       img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
       h3 Planificación de la actividad postventa
 
-    p.mb-4 La planificación consiste en organizar anticipadamente las actividades necesarias para prestar el servicio postventa. Su finalidad es establecer qué se debe hacer, cómo se realizará, quién será responsable, qué recursos se necesitan y cómo se evaluarán los resultados.
+    p.mb-4(data-aos="fade-right") La planificación consiste en organizar anticipadamente las actividades necesarias para prestar el servicio postventa. Su finalidad es establecer qué se debe hacer, cómo se realizará, quién será responsable, qué recursos se necesitan y cómo se evaluarán los resultados.
 
-    p.mb-4 Para desarrollar esta etapa se deben considerar los siguientes aspectos:
+    p.mb-4(data-aos="fade-left") Para desarrollar esta etapa se deben considerar los siguientes aspectos:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-lg-12
         ul.lista-ul.mb-0
           li.d-flex.mb-2
@@ -245,9 +245,9 @@
             i.fas.fa-user
             p.mb-0 #[b Indicadores:] definir cómo se medirá el cumplimiento de las actividades.
 
-    p.mb-4 A continuación, se presenta un ejemplo de planificación para una empresa comercializadora de equipos tecnológicos.
+    p.mb-4(data-aos="fade-left") A continuación, se presenta un ejemplo de planificación para una empresa comercializadora de equipos tecnológicos.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Tabla 2.
@@ -287,11 +287,11 @@
                 td 2 horas
                 td Porcentaje de clientes contactados.
         
-    .tit-doble.mb-5(data-aos="fade-right")
+    .tit-doble.mb-5(data-aos="fade-left")
       img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
       h3 Indicadores del servicio postventa
 
-    p.mb-4 Los indicadores permiten medir los resultados de las actividades y determinar si se están cumpliendo los objetivos establecidos. Su selección depende de las características del servicio y de la información disponible en la organización.
+    p.mb-4(data-aos="fade-right") Los indicadores permiten medir los resultados de las actividades y determinar si se están cumpliendo los objetivos establecidos. Su selección depende de las características del servicio y de la información disponible en la organización.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -359,13 +359,13 @@
       .col-lg-12
         img(src='@/assets/curso/tema1/14.png')
 
-    p.mb-4 La implementación consiste en ejecutar las actividades definidas durante la planificación, utilizando los recursos disponibles y siguiendo los procedimientos establecidos por la organización.
+    p.mb-4(data-aos="fade-right") La implementación consiste en ejecutar las actividades definidas durante la planificación, utilizando los recursos disponibles y siguiendo los procedimientos establecidos por la organización.
 
-    p.mb-4 Durante esta etapa, es fundamental que el personal conozca sus responsabilidades y disponga de la información necesaria para atender correctamente las solicitudes de los clientes.
+    p.mb-4(data-aos="fade-left") Durante esta etapa, es fundamental que el personal conozca sus responsabilidades y disponga de la información necesaria para atender correctamente las solicitudes de los clientes.
 
-    p.mb-4 Para implementar las actividades postventa se recomienda:
+    p.mb-4(data-aos="fade-right") Para implementar las actividades postventa se recomienda:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       ol.lista-ol--cuadro.lista-ol--separador.mb-0
         li.d-flex
           .lista-ol--cuadro__vineta
@@ -401,13 +401,13 @@
       .col-lg-12
         img(src='@/assets/curso/tema1/15.png')
 
-    p.mb-4 El control permite verificar que las actividades postventa se desarrollen de acuerdo con lo planificado y que los resultados cumplan los criterios de calidad establecidos por la empresa.
+    p.mb-4(data-aos="fade-right") El control permite verificar que las actividades postventa se desarrollen de acuerdo con lo planificado y que los resultados cumplan los criterios de calidad establecidos por la empresa.
 
-    p.mb-4 Este proceso comprende la revisión de registros, la medición de indicadores y la identificación de situaciones que puedan afectar la atención al cliente.
+    p.mb-4(data-aos="fade-left") Este proceso comprende la revisión de registros, la medición de indicadores y la identificación de situaciones que puedan afectar la atención al cliente.
 
-    p.mb-4 Entre las principales acciones de control se encuentran:
+    p.mb-4(data-aos="fade-right") Entre las principales acciones de control se encuentran:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       .col-lg-12
         ul.lista-ul.mb-0
           li.d-flex.mb-2
@@ -429,7 +429,7 @@
             i.fas.fa-user
             p.mb-0 #[b Comprobar el cierre de los casos:] verificar que las solicitudes cuenten con una solución o con una gestión debidamente informada y documentada.
 
-    p.mb-5 Una herramienta útil para desarrollar este control es la lista de verificación, que permite comprobar el cumplimiento de las actividades establecidas.
+    p.mb-5(data-aos="fade-right") Una herramienta útil para desarrollar este control es la lista de verificación, que permite comprobar el cumplimiento de las actividades establecidas.
 
     .tit-doble.mb-5(data-aos="fade-right")
       img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
@@ -439,13 +439,13 @@
       .col-lg-12
         img(src='@/assets/curso/tema1/16.png')
     
-    p.mb-4 La mejora consiste en realizar ajustes a los procedimientos, recursos y actividades del servicio postventa, a partir de los resultados obtenidos durante el seguimiento y control.
+    p.mb-4(data-aos="fade-right") La mejora consiste en realizar ajustes a los procedimientos, recursos y actividades del servicio postventa, a partir de los resultados obtenidos durante el seguimiento y control.
 
-    p.mb-4 Su propósito es corregir fallas, prevenir su repetición y fortalecer la satisfacción del cliente. Para ello, la empresa debe analizar la información de las solicitudes, peticiones, quejas, reclamos y sugerencias, así como los indicadores de desempeño.
+    p.mb-4(data-aos="fade-left") Su propósito es corregir fallas, prevenir su repetición y fortalecer la satisfacción del cliente. Para ello, la empresa debe analizar la información de las solicitudes, peticiones, quejas, reclamos y sugerencias, así como los indicadores de desempeño.
 
-    p.mb-4 El proceso de mejora puede desarrollarse mediante las siguientes acciones:
+    p.mb-4(data-aos="fade-right") El proceso de mejora puede desarrollarse mediante las siguientes acciones:
 
-    .row.mb-0
+    .row.mb-0(data-aos="fade-right")
       ol.lista-ol--cuadro.lista-ol--separador.mb-0
         li.d-flex
           .lista-ol--cuadro__vineta
@@ -484,7 +484,7 @@
           p.mb-4.mx-lg-2 El servicio postventa debe mantener una relación coordinada con las áreas de ventas, servicio al cliente, logística, almacén y asistencia técnica, según las características de la organización.
           p.mb-0.mx-lg-2 En las empresas de mayor tamaño, estas funciones pueden desarrollarse mediante departamentos especializados. En las MiPymes, pueden integrarse dentro de una misma área o apoyarse en proveedores externos, siempre que se garantice el cumplimiento de las responsabilidades de la empresa frente al cliente.
 
-    p.mb-5 Para estructurar el servicio postventa se recomienda desarrollar el siguiente procedimiento:
+    p.mb-5(data-aos="fade-right") Para estructurar el servicio postventa se recomienda desarrollar el siguiente procedimiento:
 
     .row.fondo1.p-5.fond.mb-5(data-aos="fade-down")
       .col-lg-12
@@ -493,78 +493,78 @@
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .row.justify-content-center.align-items-center
-                  .col-lg-6
+                  .col-lg-6.order-lg-1.order-2
                     img.img-a.img-t(src='@/assets/curso/tema1/19.png')
-                  .col-lg-6
+                  .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
                     h4.mb-4 Paso 1. Identificar las necesidades del cliente
                     p.mb-0 Determinar cuáles son las solicitudes más frecuentes después de la compra, como garantías, mantenimiento, devoluciones, reparaciones o consultas.
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .row.justify-content-center.align-items-center
-                  .col-lg-6
+                  .col-lg-6.order-lg-1.order-2
                     img.img-a.img-t(src='@/assets/curso/tema1/20.png')
-                  .col-lg-6
+                  .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
                     h4.mb-4 Paso 2. Definir los servicios que se ofrecerán
                     p.mb-0 Establecer el alcance de la atención postventa y las condiciones de prestación de cada servicio.
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .row.justify-content-center.align-items-center
-                  .col-lg-6
+                  .col-lg-6.order-lg-1.order-2
                     img.img-a.img-t(src='@/assets/curso/tema1/21.png')
-                  .col-lg-6
+                  .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
                     h4.mb-4 Paso 3. Asignar responsables
                     p.mb-0 Determinar las personas o áreas encargadas de recibir, tramitar y solucionar los requerimientos.
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .row.justify-content-center.align-items-center
-                  .col-lg-6
+                  .col-lg-6.order-lg-1.order-2
                     img.img-a.img-t(src='@/assets/curso/tema1/22.png')
-                  .col-lg-6
+                  .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
                     h4.mb-4 Paso 4. Establecer los canales de atención
                     p.mb-0 Habilitar medios presenciales, telefónicos o digitales para recibir las solicitudes.
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .row.justify-content-center.align-items-center
-                  .col-lg-6
+                  .col-lg-6.order-lg-1.order-2
                     img.img-a.img-t(src='@/assets/curso/tema1/23.png')
-                  .col-lg-6
+                  .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
                     h4.mb-4 Paso 5. Diseñar los procedimientos
                     p.mb-0 Definir las actividades que deben ejecutarse desde la recepción de una solicitud hasta su cierre.
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .row.justify-content-center.align-items-center
-                  .col-lg-6
+                  .col-lg-6.order-lg-1.order-2
                     img.img-a.img-t(src='@/assets/curso/tema1/24.png')
-                  .col-lg-6
+                  .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
                     h4.mb-4 Paso 6. Establecer tiempos e indicadores
                     p.mb-0 Determinar los plazos de atención y los mecanismos para evaluar el cumplimiento del servicio.
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .row.justify-content-center.align-items-center
-                  .col-lg-6
+                  .col-lg-6.order-lg-1.order-2
                     img.img-a.img-t(src='@/assets/curso/tema1/25.png')
-                  .col-lg-6
+                  .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
                     h4.mb-4 Paso 7. Implementar mecanismos de seguimiento
                     p.mb-0 Registrar los casos, verificar su evolución y recopilar información para mejorar la atención.
 
-    p.mb-5 Este procedimiento debe adaptarse a las características de los productos comercializados, la capacidad operativa de la empresa y las obligaciones legales aplicables.
+    p.mb-5(data-aos="fade-right") Este procedimiento debe adaptarse a las características de los productos comercializados, la capacidad operativa de la empresa y las obligaciones legales aplicables.
 
     .tit-doble.mb-4(data-aos="fade-right")
       img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
       h3 Recepción y atención de incidencias
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-7
         p.mb-4 Una incidencia es una situación que afecta o puede afectar la experiencia del cliente después de la compra y que requiere atención por parte de la empresa. Puede estar relacionada con fallas del producto, incumplimientos en la entrega, dificultades de funcionamiento o inconformidades con el servicio recibido.
         p.mb-0 La recepción y atención de incidencias constituye el primer contacto formal para gestionar este tipo de situaciones. Su propósito es identificar el requerimiento, proporcionar orientación y coordinar las acciones necesarias para ofrecer una respuesta adecuada.
-      .col-lg-5
+      .col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/tema1/26.png')
 
     .tit-doble.mb-5(data-aos="fade-right")
       img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
       h3 Procedimiento para atender una incidencia
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       ol.lista-ol--cuadro.lista-ol--separador.mb-0
         li.d-flex
           .lista-ol--cuadro__vineta
@@ -609,21 +609,21 @@
         .col-lg-4.mb-lg-0.mb-4.order-lg-2.order-1
           img.img-t.img-a(src='@/assets/curso/tema1/27.svg')
 
-    .tit-doble.mb-5(data-aos="fade-right")
+    .tit-doble.mb-5(data-aos="fade-left")
       img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
       h3 Servicio de asistencia técnica
     
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-lg-12
         img(src='@/assets/curso/tema1/28.png')
 
-    p.mb-4 El servicio de asistencia técnica comprende las actividades especializadas que permiten orientar al cliente, diagnosticar fallas, realizar mantenimiento y solucionar problemas relacionados con el funcionamiento de un producto.
+    p.mb-4(data-aos="fade-left") El servicio de asistencia técnica comprende las actividades especializadas que permiten orientar al cliente, diagnosticar fallas, realizar mantenimiento y solucionar problemas relacionados con el funcionamiento de un producto.
 
-    p.mb-4 Este servicio puede prestarse directamente por la empresa comercializadora, por el fabricante o mediante proveedores autorizados, según las características del producto y las condiciones correspondientes.
+    p.mb-4(data-aos="fade-right") Este servicio puede prestarse directamente por la empresa comercializadora, por el fabricante o mediante proveedores autorizados, según las características del producto y las condiciones correspondientes.
 
-    p.mb-4 Entre las principales modalidades de asistencia técnica se encuentran:
+    p.mb-4(data-aos="fade-left") Entre las principales modalidades de asistencia técnica se encuentran:
     
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-lg-12
         ul.lista-ul.mb-0
           li.d-flex.mb-2
@@ -645,7 +645,7 @@
             i.fas.fa-user
             p.mb-0 #[b Mantenimiento correctivo:] acciones orientadas a diagnosticar y solucionar fallas que afectan el funcionamiento del producto.
 
-    .bg6.p-lg-5.p-4.mb-5(data-aos="fade-right")
+    .bg6.p-lg-5.p-4.mb-5(data-aos="fade-left")
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-4.mb-lg-0.mb-4
           img.img-t.img-a(src='@/assets/curso/tema1/29.svg')
@@ -658,15 +658,15 @@
       img.tit-doble__ico(:src="require_src('@/assets/curso/tema1/ico.svg')")
       h3 Otros servicios implicados en la postventa
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       .col-lg-12
         img(src='@/assets/curso/tema1/30.png')
 
-    p.mb-4 Además de la recepción de incidencias y la asistencia técnica, existen otros servicios que complementan la atención postventa y requieren la participación de diferentes áreas de la organización.
+    p.mb-4(data-aos="fade-right") Además de la recepción de incidencias y la asistencia técnica, existen otros servicios que complementan la atención postventa y requieren la participación de diferentes áreas de la organización.
 
-    p.mb-4 Entre estos servicios se encuentran:
+    p.mb-4(data-aos="fade-left") Entre estos servicios se encuentran:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-lg-12
         ul.lista-ul.mb-0
           li.d-flex.mb-2
@@ -691,13 +691,13 @@
             i.fas.fa-user
             p.mb-0 #[b Gestión de información:] permite organizar los registros de solicitudes, historial de atención y resultados del servicio mediante herramientas tecnológicas o sistemas de gestión de clientes.
     
-    p.mb-4 La coordinación de estos servicios contribuye a que la empresa proporcione respuestas integrales y evite que el cliente deba repetir su solicitud ante diferentes áreas.
+    p.mb-4(data-aos="fade-right") La coordinación de estos servicios contribuye a que la empresa proporcione respuestas integrales y evite que el cliente deba repetir su solicitud ante diferentes áreas.
 
     .row.fd3.fon.mb-0(data-aos="fade-down")
       .col-lg-12
         
         .tit-ico.mb-5(data-aos="fade-right")
-          img.tit-ico__img(src="@/assets/curso/tema1/31.svg", alt="")
+          img.tit-ico__img(src="@/assets/curso/tema1/31.svg")
           h4.mb-0 Caso práctico: procedimiento para estructurar un servicio postventa
         
         .row.justify-content-center.align-items-center.mb-5
@@ -711,7 +711,8 @@
               p.mb-0 Un cliente que adquirió un computador portátil informa que el equipo presenta fallas al encender. La empresa debe atender la solicitud y coordinar las actividades necesarias para proporcionar una solución.
         
         h4.mb-4 Desarrollo del procedimiento:
-        .row.mb-5
+
+        .row.mb-5(data-aos="fade-left")
           ol.lista-ol--cuadro.lista-ol--separador.mb-0
             li.d-flex
               .lista-ol--cuadro__vineta
@@ -771,11 +772,11 @@
                   | La empresa registra el resultado final y, cuando corresponda, solicita al cliente una valoración del servicio recibido. Esta información se utiliza para identificar oportunidades de mejora.
             .br
         
-        .cajon.color-acento-b.p-4.mb-4
+        .cajon.color-acento-b.p-4.mb-4(data-aos="fade-right")
           h4.mb-4 Análisis del caso
           p.mb-0 La situación presentada permite identificar la importancia de coordinar las actividades comerciales, administrativas y técnicas dentro del servicio postventa. Una atención efectiva no depende únicamente de reparar el producto, sino también de registrar correctamente la solicitud, proporcionar información oportuna, cumplir los procedimientos y realizar seguimiento hasta finalizar la gestión.
 
-        .cajon.color-acento-bo.p-4.mb-0
+        .cajon.color-acento-bo.p-4.mb-0(data-aos="fade-left")
           h4.mb-4 Actividad de reflexión
           p.mb-4 A partir del caso de Computer Working, responda:
           p.mb-0 a) ¿Qué información debe registrar el asesor al recibir la solicitud del cliente?
